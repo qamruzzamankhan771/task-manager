@@ -1,10 +1,12 @@
 # task-manager
 
-Added the APIs 
+# install packages
+npm i
 
-GET /tasks: Retrieve all tasks.
-GET /tasks/:id: Retrieve a single task by its ID.
-POST /tasks: Create a new task.
-PUT /tasks/:id: Update an existing task by its ID.
-DELETE /tasks/:id: Delete a task by its ID.
+# node & npm version used
+node - v18.16.0
+npm - 9.5.1
 
+# Running server
+cd src
+node index.js
